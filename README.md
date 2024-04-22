@@ -6,6 +6,9 @@ A system like Dubizzle consists of an admin panel for centralized control and ma
 The admin panel serves as the backend interface for administrators to manage users, listings, and overall system settings.
 Administrators can oversee user activities, moderate content, analyze data, and perform maintenance tasks to ensure the platform runs smoothly.
 
+![alt text](https://github.com/hadeer-elnaghy/WiseFind/blob/main/screenshots/screencapture-wisefind-app-admin-dashboard-2024-04-22-22_52_47.png)
+
+
 ## Website for Users:
 The website provides users with a platform to browse, search, and interact with listings posted on the system.
 Users can create accounts, post listings, communicate with other users, and engage in buying and selling activities.
