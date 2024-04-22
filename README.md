@@ -16,3 +16,6 @@ The mobile application offers users a convenient way to access the platform from
 Users can perform similar functions as on the website, such as browsing listings, contacting sellers, and managing their account on the go.
 Mobile-specific features like geolocation, push notifications, and in-app messaging enhance the mobile user experience and engagement.
 This setup provides a seamless and comprehensive platform for users to buy, sell, and interact within the online marketplace similar to Dubizzle.
+
+## Link
+https://wisefind.app
