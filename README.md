@@ -17,11 +17,11 @@ Users can perform similar functions as on the website, such as browsing listings
 Mobile-specific features like geolocation, push notifications, and in-app messaging enhance the mobile user experience and engagement.
 This setup provides a seamless and comprehensive platform for users to buy, sell, and interact within the online marketplace similar to Dubizzle.
 
-##WebSite Link
+## WebSite Link
 https://wisefind.app
 
-##Mobile app on Play Store
+## Mobile app on Play Store
 https://play.google.com/store/apps/details?id=com.wisefind.app
 
-##Mobile app on app store
+## Mobile app on app store
 https://apps.apple.com/sa/app/wisefind/id6464379083
