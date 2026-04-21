@@ -30,18 +30,18 @@
         <sub><b>Side Navigation & Profile</b></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.11_82a43257.jpg" alt="Category Gallery"/><br />
-        <sub><b>Marketplace Categories</b></sub>
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.11_82a43257.jpg" alt="Home Screen"/><br />
+        <sub><b>Home Screen</b></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_85f13056.jpg" alt="Product Listings"/><br />
-        <sub><b>Product Detail Listings</b></sub>
+        <sub><b>Product Listings</b></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.18.34_e7b8c13b.jpg" alt="Advanced Search"/><br />
-        <sub><b>Search & Filter Results</b></sub>
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.18.34_e7b8c13b.jpg" alt="Post Add"/><br />
+        <sub><b>Post Add</b></sub>
       </td>
     </tr>
   </table>
