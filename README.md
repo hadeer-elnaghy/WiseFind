@@ -48,17 +48,7 @@ Built with a focus on scalability and user experience:
 
 ## 📸 Media Gallery
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_51579f45.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_4c17c5e4.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.11_82a43257.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_85f13056.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.18.34_e7b8c13b.jpg" height="400" /></td>
-    </tr>
-  </table>
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_51579f45.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_4c17c5e4.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.11_82a43257.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.17.12_85f13056.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/WiseFind/main/screenshots/WhatsApp%20Image%202024-04-22%20at%2022.18.34_e7b8c13b.jpg" height="400" /></div>
 
 ---
 
